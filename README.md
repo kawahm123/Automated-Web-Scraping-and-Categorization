@@ -1,1 +1,3 @@
-# Automated-Web-Scraping-and-Categorization
+# Automated Web Scraping and Categorization
+<h2>Description</h2>
+This Python script automates the extraction and categorization of text data from a web page using Selenium WebDriver and BeautifulSoup for web scraping. It processes the retrieved text data to identify specific keywords and phrases defined in various categories, utilizing NLTK's lemmatizer for natural language processing. The script iterates through HTML tags to gather information, matches the content against predefined categories, and labels the data accordingly. Results are compiled into a pandas DataFrame and exported to an Excel file, providing a structured and organized way to handle large-scale text data extraction and categorization tasks efficiently.
